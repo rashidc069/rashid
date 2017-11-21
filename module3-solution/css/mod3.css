@@ -1,0 +1,46 @@
+body {
+    font-size: 16px;
+    background-color: 
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    }
+a {
+    color: white;
+    line-height: 30px;
+}
+.navbar-default .navbar-brand {
+    color: #DEB887;
+    font-weight: 900;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.navbar-default .navbar-collapse {
+    border: 2px solid black;
+}
+.navbar {
+    border: 1px solid black;
+    width: 100%;
+    background-color: #1E4D2B;
+    border-radius: 0px;
+    border-color: black;
+}
+h2 {
+    text-transform: capitalize;
+    text-align: center;
+}
+h3 {
+    text-transform: capitalize;
+    text-align: center;
+}
+#a, #b, #c { 
+    height: 1000px;
+    border: 1px solid black;
+    padding-top: 2%;
+    margin-top: 5%;
+    background-color: #FFFF99;
+    padding-bottom: 2%;
+}
+
